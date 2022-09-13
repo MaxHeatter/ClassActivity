@@ -1,0 +1,7 @@
+### this is a sample text file for class
+
+this is for demo purpose
+ go FinTech
+
+
+###END###
